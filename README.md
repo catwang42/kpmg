@@ -8,3 +8,9 @@ Some Thoughts
 4. use NLPT, Deep learning for text analysis , SimRank, word2vec, tf-idf
 5. trend, relavance, profile, score in different industry (EDA)
 6. prediction (reputation score in next 5 years / employee flow)
+
+Data Source: 
+1. Linkedin 
+2. Au website 
+3. KPMG website 
+4. Google Search Resualt 
